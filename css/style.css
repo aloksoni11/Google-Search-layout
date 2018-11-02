@@ -1,0 +1,96 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/background.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.container {
+    height: 60%;
+    width: 50%;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.logo {
+    width: 60%;
+    margin: auto;
+    background-size: cover;
+}
+
+.search {
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    height: 42px;
+    border-radius: 80px;
+}
+
+.mike {
+    height: 70%;
+    width: 10%;
+    float: right;
+    margin: 5px 5px;
+    background-image: url(../images/mike.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.link {
+    width: 90%;
+    margin: auto;
+    overflow: auto;
+    margin-top: 50px;
+}
+
+.link-logo {
+    height: 112px;
+    width: 112px;
+    float: left;
+
+}
+
+.logohere {
+    height: 48px;
+    width: 48px;
+    background-color: white;
+    border-radius: 100px;
+    margin: auto;
+
+}
+
+.span {
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Roboto'arial sans-serif;
+    margin: 15px auto;
+    width: 60%;
+    text-align: center;
+}
+
+.text {
+    height: 80%;
+    float: left;
+    width: 80%;
+    margin: auto 20px;
+}
+
+p {
+    font-family: arial;
+    font-size: 13.33px;
+    font-weight: 400;
+}
